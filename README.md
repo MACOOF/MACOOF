@@ -12,7 +12,6 @@ A passionate full-stack developer from India, currently in my 3rd year of **B.Te
 ### 🚀 Featured Projects
 
 ### What I'm Up To
-- 🚀 Currently building [Spendwise - Expense Tracker](https://trackwithspendwise.vercel.app), a modern solution for personal finance management
 - 💻 Specializing in **MERN Stack** and **Next.js** development
 - 🌱 Currently expanding my skill set by learning **.NET Core**, **Three.js**, and enhancing my testing expertise in **React** using **Jest** and **React Testing Library (RTL)**.
 - 🔍 Always eager to learn new technologies and best practices in software development
